@@ -1,9 +1,7 @@
 # 🧠 COVID-19 Detection from CT Scans with Interpretability (LIME)
 
-This repository implements the methodology described in the research paper:
-
 📄 **Interpreting Transfer Learning-Based Convolutional Neural Networks for COVID-19 Detection in CT Scan Images**  
-DOI: [10.1007/978-3-031-84059-3_17](https://link.springer.com/chapter/10.1007/978-3-031-84059-3_17)
+Read our published paper here: [10.1007/978-3-031-84059-3_17](https://link.springer.com/chapter/10.1007/978-3-031-84059-3_17)
 
 ---
 
