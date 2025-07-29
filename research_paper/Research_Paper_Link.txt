@@ -1,0 +1,4 @@
+This folder references the published research paper:
+Interpreting Transfer Learning-Based Convolutional Neural Networks for COVID-19 Detection in CT Scan Images
+DOI: 10.1007/978-3-031-84059-3_17
+Springer Link: https://link.springer.com/chapter/10.1007/978-3-031-84059-3_17
